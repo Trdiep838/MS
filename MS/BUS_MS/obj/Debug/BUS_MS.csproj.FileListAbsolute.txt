@@ -1,0 +1,9 @@
+D:\OneDrive - husc.edu.vn\2021-2022\C#\MS\BUS_MS\bin\Debug\BUS_MS.dll
+D:\OneDrive - husc.edu.vn\2021-2022\C#\MS\BUS_MS\bin\Debug\BUS_MS.pdb
+D:\OneDrive - husc.edu.vn\2021-2022\C#\MS\BUS_MS\bin\Debug\DAL_MS.dll
+D:\OneDrive - husc.edu.vn\2021-2022\C#\MS\BUS_MS\bin\Debug\DAL_MS.pdb
+D:\OneDrive - husc.edu.vn\2021-2022\C#\MS\BUS_MS\obj\Debug\BUS_MS.csproj.AssemblyReference.cache
+D:\OneDrive - husc.edu.vn\2021-2022\C#\MS\BUS_MS\obj\Debug\BUS_MS.csproj.CoreCompileInputs.cache
+D:\OneDrive - husc.edu.vn\2021-2022\C#\MS\BUS_MS\obj\Debug\BUS_MS.csproj.CopyComplete
+D:\OneDrive - husc.edu.vn\2021-2022\C#\MS\BUS_MS\obj\Debug\BUS_MS.dll
+D:\OneDrive - husc.edu.vn\2021-2022\C#\MS\BUS_MS\obj\Debug\BUS_MS.pdb
